@@ -1,0 +1,50 @@
+body{
+    margin: 4%;
+    background-color:whitesmoke;
+}
+nav a{
+    display: inline-block;
+    width: 100px;
+    background-color: whitesmoke;
+    padding: 5px;
+    text-decoration: none;
+    color:blueviolet;
+    font-weight: bold;
+}
+
+h1{background-color: red;
+   color:white;
+   text-align: center;}
+header{font-family: sans-serif;
+       font-size: 100%;
+       text-align: center;
+       padding:5px;
+       background-color: lightskyblue;}
+
+h2{background-color: greenyellow;
+   text-align: center;}
+
+section{
+        width:30%;
+        float:left;
+        margin-right: 2%;}
+
+details{font-style: italic;}
+
+summary{font-style: normal;}
+
+footer{background-color:grey;
+       clear: both;
+       color:white;}
+section{
+    display: inline-block;
+    
+}
+img{
+    width: 170px;
+}
+.half{
+    width: 45%;
+}
+.full{width:100%;
+      background-color:palevioletred;}

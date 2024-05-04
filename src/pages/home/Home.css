@@ -1,0 +1,16 @@
+.carouselSection {
+  margin-top: 20px;
+  position: relative;
+  margin-bottom: 70px;
+}
+.carouselSection .wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.carouselSection .carouselTitle {
+  font-size: 24px;
+  color: white;
+  font-weight: normal;
+}/*# sourceMappingURL=Home.css.map */
